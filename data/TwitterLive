@@ -1,0 +1,35 @@
+
+# Twitter live      ●
+54.192.158.230 assets.pscp.tv
+54.192.158.230 prod-profile.pscp.tv
+54.192.158.230 prod-thumbnail.pscp.tv
+
+151.101.78.164 prod-exp-video-ap-northeast-1.pscp.tv
+151.101.78.164 prod-exp-video-ap-southeast-1.pscp.tv
+151.101.78.164 prod-exp-video-eu-central-1.pscp.tv
+151.101.78.164 prod-exp-video-us-east-1.pscp.tv
+151.101.78.164 prod-exp-video-us-west-1.pscp.tv
+151.101.78.164 prod-exp-video-us-west-2.pscp.tv
+151.101.78.164 prod-video-ap-northeast-1.pscp.tv
+151.101.78.164 prod-video-ap-southeast-1.pscp.tv
+151.101.78.164 prod-video-eu-central-1.pscp.tv
+151.101.78.164 prod-video-us-east-1.pscp.tv
+151.101.78.164 prod-video-us-west-1.pscp.tv
+151.101.78.164 prod-video-us-west-2.pscp.tv
+
+52.24.72.66 proxsee.pscp.tv
+54.148.84.129 payman.pscp.tv
+34.213.140.252 channels.pscp.tv
+52.220.51.152 signer.pscp.tv
+54.249.17.30 www.pscp.tv
+54.70.159.19 notification-service.pscp.tv
+
+52.196.188.197 prod-chatman-ancillary-ap-northeast-1.pscp.tv
+35.158.228.205 prod-chatman-ancillary-eu-central-1.pscp.tv
+52.21.58.174 prod-chatman-ancillary-us-east-1.pscp.tv
+34.211.196.72 prod-chatman-ancillary-us-west-2.pscp.tv
+
+52.196.46.10 chatman-replay-ap-northeast-1.pscp.tv
+52.58.253.65 chatman-replay-eu-central-1.pscp.tv
+52.70.108.163 chatman-replay-us-east-1.pscp.tv
+54.68.245.50 chatman-replay-us-west-2.pscp.tv
